@@ -8,5 +8,5 @@ The intuitive approach is to expect a negative effect of urbanization on agricul
 On the opposite side, it could be argued that an opposite effect could also occur: Higher urbanization could also mean that more people move from rural to urban areas due to the poor labour market situation, thus accumulating the population in the city and freeing up more land in the countryside. With this view, a positive effect of urbanization on agricultural land could be plausible.
 
 # Usage
-The project consists of a term maper, a R script and several Tableau maps based on the preprocessed data in R. The Tableau visualisations can be found on my Tableau Public account: 
+The project consists of a term paper, a R script and several Tableau maps based on the preprocessed data in R. The Tableau visualisations can be found on my Tableau Public account: 
 https://public.tableau.com/app/profile/daniel.podolecki/viz/TheImpactofUrbanisationonAgriculturalAreaandForestArea/TheImpactofUrbanisationonAgriculturalAreaandForestArea
